@@ -5,4 +5,4 @@
 
 Данный репозиторий также содержит все использованные в проекте файлы:
 
-* [initial data](https://github.com/Androkotey/Project_1-Catch_Me_If_You_Can/tree/main/notebooks_and_data/initial_data)
+* [initial data](https://github.com/Androkotey/Project_1-Catch_Me_If_You_Can/tree/main/notebooks_and_data/initial_data) (Все исходные для проекта данные)
